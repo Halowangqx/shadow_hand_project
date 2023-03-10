@@ -1,0 +1,8 @@
+prefix=/home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/install
+
+Name: hand_control
+Description: Description of hand_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime

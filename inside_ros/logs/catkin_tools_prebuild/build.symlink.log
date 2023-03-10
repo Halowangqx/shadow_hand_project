@@ -1,0 +1,12 @@
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./_setup_util.py
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./setup.sh
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./local_setup.bash
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./local_setup.sh
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./cmake.lock
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./local_setup.zsh
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./setup.zsh
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./setup.bash
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/./env.sh
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/lib/pkgconfig/catkin_tools_prebuild.pc

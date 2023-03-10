@@ -1,0 +1,3 @@
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/hand_control/cmake/hand_controlConfig.cmake
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/hand_control/cmake/hand_controlConfig-version.cmake
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/lib/pkgconfig/hand_control.pc

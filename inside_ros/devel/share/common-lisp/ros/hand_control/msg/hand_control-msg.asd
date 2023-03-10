@@ -1,0 +1,1 @@
+/home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/.private/hand_control/share/common-lisp/ros/hand_control/msg/hand_control-msg.asd

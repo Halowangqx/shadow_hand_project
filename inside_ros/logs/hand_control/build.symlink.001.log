@@ -1,0 +1,18 @@
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/gennodejs/ros/hand_control/_index.js
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/gennodejs/ros/hand_control/msg/leap_message.js
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/gennodejs/ros/hand_control/msg/_index.js
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/common-lisp/ros/hand_control/msg/hand_control-msg.asd
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/common-lisp/ros/hand_control/msg/_package.lisp
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/common-lisp/ros/hand_control/msg/_package_leap_message.lisp
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/common-lisp/ros/hand_control/msg/leap_message.lisp
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/roseus/ros/hand_control/manifest.l
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/roseus/ros/hand_control/msg/leap_message.l
+Linked: (/home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/.private/hand_control/share/hand_control/cmake/hand_controlConfig.cmake, /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/hand_control/cmake/hand_controlConfig.cmake)
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/hand_control/cmake/hand_control-msg-extras.cmake
+Linked: (/home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/.private/hand_control/share/hand_control/cmake/hand_controlConfig-version.cmake, /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/hand_control/cmake/hand_controlConfig-version.cmake)
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/share/hand_control/cmake/hand_control-msg-paths.cmake
+Linked: (/home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/.private/hand_control/lib/pkgconfig/hand_control.pc, /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/lib/pkgconfig/hand_control.pc)
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/lib/python3/dist-packages/hand_control/__init__.py
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/lib/python3/dist-packages/hand_control/msg/__init__.py
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/lib/python3/dist-packages/hand_control/msg/_leap_message.py
+Symlinking /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel/include/hand_control/leap_message.h

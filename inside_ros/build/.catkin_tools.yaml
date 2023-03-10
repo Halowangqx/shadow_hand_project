@@ -1,0 +1,6 @@
+devel_space: /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/devel
+install: false
+install_space: /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/install
+profile: default
+source_space: /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside/src
+workspace: /home/user/projects/shadow_robot/base/src/sr_interface/shadow-hand-ros-inside
