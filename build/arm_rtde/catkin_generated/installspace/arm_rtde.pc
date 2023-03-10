@@ -1,0 +1,8 @@
+prefix=/home/luhr/shadow_hand_ros/install
+
+Name: arm_rtde
+Description: Description of arm_rtde
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

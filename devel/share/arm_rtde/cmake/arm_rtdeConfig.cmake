@@ -1,0 +1,1 @@
+/home/luhr/shadow_hand_ros/devel/.private/arm_rtde/share/arm_rtde/cmake/arm_rtdeConfig.cmake

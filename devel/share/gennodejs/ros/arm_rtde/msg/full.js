@@ -1,0 +1,1 @@
+/home/luhr/shadow_hand_ros/devel/.private/arm_rtde/share/gennodejs/ros/arm_rtde/msg/full.js

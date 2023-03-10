@@ -1,0 +1,6 @@
+devel_space: /home/luhr/shadow_hand_ros/devel
+install: false
+install_space: /home/luhr/shadow_hand_ros/install
+profile: default
+source_space: /home/luhr/shadow_hand_ros/src
+workspace: /home/luhr/shadow_hand_ros

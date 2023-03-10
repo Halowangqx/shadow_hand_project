@@ -1,0 +1,13 @@
+[31m[1mCMake Error[0m at /home/luhr/shadow_hand_ros/build/leap_motion/cmake/leap_motion-genmsg.cmake:3 (message):
+  Could not find messages which
+  '/home/luhr/shadow_hand_ros/src/leap_motion/msg/leap_message.msg' depends
+  on.  Did you forget to specify generate_messages(DEPENDENCIES ...)?
+
+  Cannot locate message [Hearder] in package [leap_motion] with paths
+  [['/home/luhr/shadow_hand_ros/src/leap_motion/msg']]
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:72 (generate_messages)
+
+
+make: *** [Makefile:600：cmake_check_build_system] 错误 1

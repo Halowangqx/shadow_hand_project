@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/luhr/shadow_hand_ros/devel/.private/arm_rtde/setup.sh

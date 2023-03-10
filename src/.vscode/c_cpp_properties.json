@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/luhr/catkin_ws/devel/include/**",
+        "/home/luhr/shadow_hand_ros/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/luhr/shadow_hand_ros/src/arm_rtde/include/**",
+        "/home/luhr/shadow_hand_ros/src/leap_motion/include/**",
+        "/home/luhr/catkin_ws/src/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/luhr/catkin_ws/src/universal_robot/ur_kinematics/include/**",
+        "/home/luhr/catkin_ws/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

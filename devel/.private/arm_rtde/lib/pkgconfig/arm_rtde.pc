@@ -1,0 +1,8 @@
+prefix=/home/luhr/shadow_hand_ros/devel/.private/arm_rtde
+
+Name: arm_rtde
+Description: Description of arm_rtde
+Version: 0.0.0
+Cflags: -I/home/luhr/shadow_hand_ros/devel/.private/arm_rtde/include
+Libs: -L${prefix}/lib 
+Requires: 

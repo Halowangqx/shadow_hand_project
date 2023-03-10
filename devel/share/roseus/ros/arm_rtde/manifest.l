@@ -1,0 +1,1 @@
+/home/luhr/shadow_hand_ros/devel/.private/arm_rtde/share/roseus/ros/arm_rtde/manifest.l

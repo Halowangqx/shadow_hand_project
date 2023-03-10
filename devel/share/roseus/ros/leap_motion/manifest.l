@@ -1,0 +1,1 @@
+/home/luhr/shadow_hand_ros/devel/.private/leap_motion/share/roseus/ros/leap_motion/manifest.l
